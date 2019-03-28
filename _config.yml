@@ -5,16 +5,16 @@ permalink:          pretty
 
 # Dependencies
 markdown:           kramdown
-highlighter:        pygments
+highlighter:        rouge
 gems:               [jekyll-paginate]
 
 # Permalinks
 permalink:          pretty
 
 # Setup
-title:              "English 107"
+title:              "Making Thing/Writing Things"
 tagline:
-description:        "making things/writing things about literature"
+description:        "E107|Pierce College|SP19"
 host:               127.0.0.1
 url:                ""
 baseurl:            "/e107v2"
