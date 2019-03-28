@@ -12,7 +12,7 @@ gems:               [jekyll-paginate]
 permalink:          pretty
 
 # Setup
-title:              "Making Thing/Writing Things"
+title:              "Making Things/Writing Things"
 tagline:
 description:        "E107|Pierce College|SP19"
 host:               127.0.0.1
