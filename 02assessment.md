@@ -12,7 +12,7 @@ Conventional grading requires us to over-simplify the otherwise complex processe
 
 ### Here's how it works:
 
-####Assessment Declarations
+#### Assessment Declarations
 
 Each week’s work has a point value, and you receive the points when the work is complete. So, as you finish each week, you will record the points in Canvas by means of a "Declaration" — which is just a true/false survey where you confirm that the work for the week is done. The points you declare are automatically recorded in your total points, which you can see in the Canvas Gradebook.
 
@@ -25,11 +25,11 @@ A typical weekly Declaration looks like this:
 
 There will be a total of 300 points available for the quarter -- approximately 30 points a week for 10 weeks.
 
-####Self-Assessments
+#### Self-Assessments
 
 Each week, students will write a self-evaluation of their work for the week. This self-evaluation focus on how your learning relates to our course outcomes as well as one's own personal learing outcomes. These self-evaluations will be submitted via Canvas.
 
-####Deterimining Final Grades
+#### Deterimining Final Grades
 
 Final grades will be determined by the student and the instructor based on the declarations and self-assessments. 
 
