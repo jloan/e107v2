@@ -24,4 +24,13 @@ Deforming Drnasio's *Sabrina* (Weeks 2 - 5)
 
 Deforming Butler's *Parable of the Sower* (Weeks 5 - 10)
 
+* **DUE Week 9:** a Comic/Graphic Essay in Response to Butler's **Parable*
+
+* **DUE Week 10:** a final essay on *the possibilities of writing about literature*
+
+## Note
+
+More detailed instructions for these projects will provided. The above descriptions are thumbnail sketches of the projects.
+
+In all our work this quarter we will engage in processes of drafting, feedback and revision. We want to become better aware of how our work interacts with audiences and how it can be worked on to do useful for work for these audiences in the world.
 
