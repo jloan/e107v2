@@ -11,7 +11,7 @@ permalink: /schedule/
 
 *Tuesday [April 9]:* Set-up Research Logs 
 
-*Wednesday [April 10]:* Read (before class): Yancey's ["Writing in the 21st Century"](https://www.nwp.org/cs/public/print/resource/2852) and Sample's ["What's Wrong With Writing Essays"](http://dhdebates.gc.cuny.edu/debates/text/42) and Rueker et. al.'s ["Prototype"](https://digitalpedagogy.mla.hcommons.org/keywords/prototype/) | Workshop: Intro to Prototyping
+*Wednesday [April 10]:* Read (before class): Yancey's ["Writing in the 21st Century"](https://www.nwp.org/cs/public/print/resource/2852) and Sample's ["What's Wrong With Writing Essays"](http://dhdebates.gc.cuny.edu/debates/text/42) and Rueker et. al.'s ["Prototype"](https://digitalpedagogy.mla.hcommons.org/keywords/prototype/) | Workshop: [Intro to Prototyping](https://jloan.github.io/e107v2/slides/107wk1.html)
 
 *Thursday [April 11]:* Workshop: Prototyping (cont.)
 
