@@ -23,7 +23,7 @@ permalink: /schedule/
 
 *Tuesday [April 16]:* Read (before class): [Brunetti](https://sbctc-piercecollege.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma992261707302818&context=L&vid=01STATEWA_PIERCE:PIERCE&search_scope=MyInst_and_CI&tab=Everything&lang=en)  - "Intro" thru "Week 3"  | Workshop (in class): Brunetti - *Excercises 1.1 - 2.2* 
 
-*Wednesday [April 17]:* Read (before class): McCloud *Ch. 1 - 4* | Complete (before class): Brunetti - *Homework Assignments 1.1, 1.2* | Workshop (in class): Discuss McCloud and Brunetti and complete Brunetti *Excercises 2.3 and 2.4*
+*Wednesday [April 17]:* Read (before class): McCloud *Ch. 1 - 4* | Complete (before class): Brunetti - *Homework Assignments 1.1, 1.2* | [Workshop (in class)](slides/brunetti1-3.html): Discuss McCloud and Brunetti and complete Brunetti *Excercises 2.3 and 2.4*
 
 *Thursday [April 18]:* Complete (before class): Brunetti *Homework Assignment 2*  | Workshop (in class): Brunetti - *Excercises 2.1 - 3.2* | Look ahead to Monday: Complete Brunetti *Homework Assignment 3*
 
