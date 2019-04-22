@@ -31,15 +31,15 @@ permalink: /schedule/
 
 #### Week 3
 
-Monday [April 22]
+*Monday [April 22]*: Share 4-Panel Strips | Discuss McCloud
 
-Tuesday [April 23]
+*Tuesday [April 23]*: (before class) Read Brunetti Weeks 4 -6. Workshop (inclass): Brunetti Week 4 Excercises/Homework
 
-Wednesday [April 24]
+*Wednesday [April 24]*: (before class) Read Drnaso's *Sabrina* ~ first 30 pages. | Discuss *Sabrina* | (for homework) Brunetti Week 5
 
-Thursday [April 25]
+*Thursday [April 25]*: Workshop (inclass): Brunetti Week 6 Excercises/Homework
 
-Friday [April 26] -- NO CLASS (I'll be Yakima for a meeting)
+*Friday [April 26]*: -- NO CLASS (I'll be Yakima for a meeting) | Research Logs DUE | Assessments and self-evaluations 
 
 #### Week 4
 
