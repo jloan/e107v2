@@ -31,7 +31,7 @@ permalink: /schedule/
 
 #### Week 3
 
-*Monday [April 22]*: Share 4-Panel Strips | Discuss McCloud
+*Monday [April 22]*: Share 4-Panel Strips | Discuss McCloud -- ["The Big Triangle"](http://www.scottmccloud.com/4-inventions/triangle/index.html)
 
 *Tuesday [April 23]*: (before class) Read Brunetti Weeks 4 -6. Workshop (inclass): Brunetti Week 4 Excercises/Homework
 
