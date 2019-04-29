@@ -43,11 +43,15 @@ permalink: /schedule/
 
 #### Week 4
 
-Monday [April 29]: Set-up week | Extend Collabations | Continue to discuss Sabrina
-Tuesday [April 30]: Brunetti Week 7
-Wednesday [May 1]: (before class) Read McCloud Chapters 5 - 7 and up to ~ pg 150 in Sabrina
-Thursday [May 2]: Brunetti Week 8
-Friday [May 3] -- NO CLASS (Faculty/Staff In-Service) | Research Logs DUE | Assessments and self-evaluations 
+**Monday [April 29]:** Set-up week | Extend Collabations | Continue to discuss Sabrina
+
+**Tuesday [April 30]:** Brunetti Week 7
+
+**Wednesday [May 1]:** (before class) Read McCloud Chapters 5 - 7 and up to ~ pg 150 in Sabrina
+
+**Thursday [May 2]:** Brunetti Week 8
+
+**Friday [May 3]** -- NO CLASS (Faculty/Staff In-Service) | Research Logs DUE | Assessments and self-evaluations 
 
 #### Week 5
 
