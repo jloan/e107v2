@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Experiment #1: Make a Speculative Doundtrack for *Sabrina*" 
+title:  "Experiment #1: Make a Speculative Soundtrack for *Sabrina*" 
 date:   2019-05-01 11:00:00
 category: experiments
 author: Jason Loan 
