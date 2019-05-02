@@ -39,7 +39,7 @@ In your writing aim to bring out the sonic dimensions of the elements you've sel
 
 Successful soundtracks will include discussion of the sonic elements of the selections, avoid plot summary in favor of thematic exploration, and be delivered through compelling and polished language and visual presentation.
 
-## SOUNDTRACKS DUE BY START OF CLASS ON MONDAY, MAY 6TH. SHARE A LINK TO THESE IN YOUR RESEARCH LOG.
+#### SOUNDTRACKS DUE BY START OF CLASS ON MONDAY, MAY 6TH. SHARE A LINK TO THESE IN YOUR RESEARCH LOG.
 
 
 
