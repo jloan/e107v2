@@ -11,7 +11,7 @@ author: Jason Loan
 
 We began the quarter with a reading and discussion of [*prototyping* as an approach](https://digitalpedagogy.mla.hcommons.org/keywords/prototype/) to doing work in the humanities like writing about literature. As a starting point for this work we prototyped a response to Kathleen Yancey's ["Writing in the 21st Century."](https://www.nwp.org/cs/public/print/resource/2852)
 
-The case I made to you about prototyping as part of our work in an Enlish class, as part of work in writing about literature was that prototyping encourages us to create/develop what does not yet exist, and in the work of writing about literarure, our challenge is pose and explore questions that may not yet exist. When we write about literature, our challenge is to go beyond simple summary of what happened in a particular work, but to create new and interesting queations to explore in relation to that work.
+The case I made to you about prototyping as part of our work in an English class was that prototyping encourages us to create/develop what does not yet exist, and in the work of writing about literarure, our challenge is pose and explore questions that may not yet exist. When we write about literature, our challenge is to go beyond simple summary of what happened in a particular work, but to create new and interesting queations to explore in relation to that work.
 
 ## Here's Your Challenge
 
@@ -36,7 +36,7 @@ Your one-page page protoype might explore any number of things in response to *S
 * Compose a variation of an existing scene by altering a key element of what makes it a comic. For example -- reimagine a scene from *Sabrina* in which you change the levels of realism and abstraction. Or reimagine a squence in the book using a differnt approach to pacing and time. Essentially, pick a cartooning/comics concept from McCloud or Brunetti and reimagine a key scene in *Sabrina* by substanively altering how Drnaso employed that element.
 * Compose a McCloud-style one-page essay in respone to *Sabrina*. In other words, draw yourself as a character offering critical commentary on Drnaso's text.
 
-These are just a handful of possibilities. There are no doubt others, and I encourage you to be as creative and experimental in your prototype as you're able.
+These are just a handful of possibilities. There are no doubt others, and I encourage you to be as creative and experimental in your prototype as you're able. I also encourage you to look back at the "Speculative Soundtrack" you made last week for *Sabrina*. What ideas or questions emerged for you in that work that you could further explore in this experiment?
 
 ## Logistics
 
