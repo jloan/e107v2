@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interpretive prototype #2: Draw/Prototype a One-Page Comic in Response to *Sabrina*" 
+title:  "Interpretive prototype #2: Draw/Prototype a One-Page Comic in Response to Sabrina" 
 date:   2019-05-06 11:00:00
 category: prototypes
 author: Jason Loan 
@@ -9,9 +9,9 @@ author: Jason Loan
 
 ## Prototyping About *Sabrina* (an Experiment)
 
-We began the quarter with a reading and discussion of [*prototyping* as an approach](https://digitalpedagogy.mla.hcommons.org/keywords/prototype/) to doing work in the humanities like writing about literature. As a starting point for this work we prototyped a response to Kathleen Yancey's ["Writing in the 21st Century."](https://www.nwp.org/cs/public/print/resource/2852)
+We began the quarter with a reading and discussion of [*prototyping* as an approach](https://digitalpedagogy.mla.hcommons.org/keywords/prototype/) to doing work in the humanities. As a starting point for this work we prototyped a response to Kathleen Yancey's ["Writing in the 21st Century."](https://www.nwp.org/cs/public/print/resource/2852)
 
-The case I made to you about prototyping as part of our work in an English class was that prototyping encourages us to create/develop what does not yet exist, and in the work of writing about literarure, our challenge is pose and explore questions that may not yet exist. When we write about literature, our challenge is to go beyond simple summary of what happened in a particular work, but to create new and interesting queations to explore in relation to that work.
+The case I made to you about prototyping as part of our work in an English class was that prototyping encourages us to create/develop what does not yet exist, and in the work of writing about literarure, our goal is to pose and explore questions that may not yet exist. When we write about literature, our challenge is to go beyond a simple summary of what happened in a particular work, and to create new and interesting queations to explore in relation to that work.
 
 ## Here's Your Challenge
 
