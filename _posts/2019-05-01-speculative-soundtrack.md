@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interpretive Prototype #2: Make a Speculative Soundtrack for *Sabrina*" 
+title:  "Interpretive Prototype #1: Make a Speculative Soundtrack for *Sabrina*" 
 date:   2019-05-01 11:00:00
 category: prototypes
 author: Jason Loan 
