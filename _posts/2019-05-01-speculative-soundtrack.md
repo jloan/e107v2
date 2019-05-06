@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Experiment #1: Make a Speculative Soundtrack for *Sabrina*" 
+title:  "Interpretive Prototype #2: Make a Speculative Soundtrack for *Sabrina*" 
 date:   2019-05-01 11:00:00
-category: experiments
+category: prototypes
 author: Jason Loan 
 ---
 
