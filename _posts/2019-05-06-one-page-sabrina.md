@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Interpretive prototype #2: Draw/Prototype a One-Page Comic in Response to *Sabrina*" 
-date:   2019-05-01 11:00:00
+date:   2019-05-06 11:00:00
 category: prototypes
 author: Jason Loan 
 ---
