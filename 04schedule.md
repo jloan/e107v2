@@ -55,26 +55,39 @@ permalink: /schedule/
 
 #### Week 5
 
-Monday [May 6]
-Tuesday [May 7]
-Wednesday [May 8]
-Thursday [May 9]
-Friday [May 10]
+Monday [May 6]: Intro Interpretive Prototype #2
+
+Tuesday [May 7]: Workshop Interpretive Prototype #2 -- Meet in OLY 271 (Studio Classroom)
+
+Wednesday [May 8]: Workshop Interpretive Prototype #2
+
+Thursday [May 9]: Workshop Interpretive Prototype #2 -- Meet in OLY 271 (Studio Classroom)
+
+Friday [May 10]: Workshop Interpretive Prototype #2 -- Meet in OLY 271 (Studio Classroom) | Research Logs DUE | Assessments and self-evaluations 
+
 
 #### Week 6
 
-Monday [May 13]
-Tuesday [May 14]
-Wednesday [May 15]
-Thursday [May 16]
-Friday [May 17]
+*Monday [May 13]:* Interpretive Prototype #2 **due**
+
+*Tuesday [May 14]:* Workshop: From Prototype to Essay
+
+*Wednesday [May 15]:* Workshop: From Prototype to Essay
+
+*Thursday [May 16]:* Workshop: From Prototype to Essay
+
+*Friday [May 17]:* Research Logs DUE | Assessments and self-evaluations 
 
 #### Week 7
 
-Monday [May 20]
-Tuesday [May 21]
-Wednesday [May 22]
-Thursday [May 23]
+Monday [May 20]: Drafts of Essay (from prototype) **due** | Transition to reading Octavia Butler's Parable of the Sower
+
+Tuesday [May 21]: 
+
+Wednesday [May 22]:
+
+Thursday [May 23]: 
+
 Friday [May 24]
 
 #### Week 8
