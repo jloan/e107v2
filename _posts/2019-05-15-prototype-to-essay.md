@@ -26,4 +26,4 @@ Our course objectives offer some guidedance to how we should approach this phase
 
 Our course outcomes offer us no firm guidelines for a word count on our essay writing. And, admittedly, this is sort of a relief. That said, however, word counts and page lengths offer us some perameters and targets to aim for.
 
-My sense of a reasonable length for the essay component of this assignment is that it could be successful and ruich and well-developed in the range 0f 1000 - 1500 words. This is roughly 4 - 6 pages of double-spaced prose (not including the use of images or other grapics).
+My sense of a reasonable length for the essay component of this assignment is that it could be successful and rich and well-developed in the range 0f 1000 - 1500 words. This is roughly 4 - 6 pages of double-spaced prose (not including the use of images or other grapics).
