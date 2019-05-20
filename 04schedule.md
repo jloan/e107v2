@@ -80,7 +80,7 @@ Friday [May 10]: Workshop Interpretive Prototype #2 -- Meet in OLY 271 (Studio C
 
 #### Week 7
 
-*Monday [May 20]:* Drafts of Essay (from prototype) **due** | Transition to reading Octavia Butler's Parable of the Sower | Read (in-class): Mark Sample's ["Notes Toward a Deformed Humanities"] (http://www.samplereality.com/2012/05/02/notes-towards-a-deformed-humanities/)
+*Monday [May 20]:* Drafts of Essay (from prototype) **due** | Transition to reading Octavia Butler's Parable of the Sower | Read (in-class): Mark Sample's ["Notes Toward a Deformed Humanities"](http://www.samplereality.com/2012/05/02/notes-towards-a-deformed-humanities/)
 
 *Tuesday [May 21]:* Workshop: From Prototype to Deformance: Reading/Writing Octavia Butler's [*Parable of the Sower*](https://en.wikipedia.org/wiki/Parable_of_the_Sower_(novel))
 
