@@ -88,15 +88,15 @@ Friday [May 10]: Workshop Interpretive Prototype #2 -- Meet in OLY 271 (Studio C
 
 *Thursday [May 23]:* Workshop: From Prototype to Deformance (cont.)
 
-*Friday [May 24]* Deformance Project Proposals **due**
+*Friday [May 24]* Deformance Project Proposals **due** | Resraech Logs and Self-Assessments/Reflections DUE
 
 #### Week 8
 
-Monday [May 27] -- NO CLASS (Memorial Day)
-Tuesday [May 28]
-Wednesday [May 29]
-Thursday [May 30]
-Friday [May 31]
+*Monday [May 27]* -- NO CLASS (Memorial Day)
+*Tuesday [May 28]* -- Workshop: From Prototype to Deformance (cont.)
+*Wednesday [May 29]* -- TBD: Jason away at conference
+*Thursday [May 30]* -- TBD: Jason away at conference
+*Friday [May 31]* -- TBD: Jason away at conference
 
 #### Week 9
 
