@@ -93,17 +93,25 @@ Friday [May 10]: Workshop Interpretive Prototype #2 -- Meet in OLY 271 (Studio C
 #### Week 8
 
 *Monday [May 27]* -- NO CLASS (Memorial Day)
+
 *Tuesday [May 28]* -- Workshop: From Prototype to Deformance (cont.)
+
 *Wednesday [May 29]* -- TBD: Jason away at conference
+
 *Thursday [May 30]* -- TBD: Jason away at conference
+
 *Friday [May 31]* -- TBD: Jason away at conference
 
 #### Week 9
 
 Monday [June 3]
+
 Tuesday [June 4]
+
 Wednesday [June 5]
+
 Thursday [June 6]
+
 Friday [June 7]
 
 #### Week 10
