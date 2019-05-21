@@ -10,7 +10,7 @@ author: Jason Loan
 
 We began the course with a reading of Kathleen Yancy's ["Writing in the 21st Century."]() Yancy's report is a call for "*developing new models of writing; designing a new curriculum supporting those models; and creating models for teaching that curriculum*" (emphasis in original). In my own attempt at this, our class has been rooted in the practice of prototyping as a means of writing about literature. 
 
-In the first wave of this work we have prototyped comics -- with the help of Ivan Brunetti -- as part of our writing process in relation to Nick Drnaso's *Sabrina*. 
+In the first wave of this work we have prototyped comics -- with the help of [Ivan Brunetti](https://sbctc-piercecollege.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma992261707302818&context=L&vid=01STATEWA_PIERCE:PIERCE&search_scope=MyInst_and_CI&tab=Everything&lang=en) -- as part of our writing process in relation to Nick Drnaso's *Sabrina*. 
 
 In the next, and final phase of the class, we will attempt to prototype what Mark Sample calls a ["deformed humanities."](http://www.samplereality.com/2012/05/02/notes-towards-a-deformed-humanities/) Sample's vision of a *deformed humanities* is one of an approach to that attempts to learn something about an existing text by *breaking it* in order to make something new.
 
@@ -22,7 +22,7 @@ For this project, you have two primary components.
 
 Compose a prototype of a deformance of Octavia Butler's *Parable of the Sower*. 
 
-What is a "deformance"? The idea of deformance originally comes from the literary scholars Jerome McGann and Lisa Samuels. But as Mark Sample reminds us:
+What is a "deformance"? The idea of [deformance](http://www2.iath.virginia.edu/jjm2f/old/deform.html) originally comes from the literary scholars Jerome McGann and Lisa Samuels. But as Mark Sample reminds us:
 > The Deformed Humanities [or the spirit of deformance] is all around us...Mashups, remixes, fan fiction, they are all made by breaking things, with little regard for preserving the original whole.
 
 Part of the work of this project will be to figure out for ourselves what a "deformance" or a "deformed writing about literature" *could be* by prototyping it. Remember, a [prototype](https://digitalpedagogy.mla.hcommons.org/keywords/prototype/) is something designed to speculate on things that do yet exist, or have in some ways only been partially realized. 
@@ -60,6 +60,6 @@ June 3 [Monday] -- Finish reading *Parable*.
 
 June 7 [Friday] -- In-progress *Parable* Deformances **due**.
 
-June 14 [Friday] -- Final *Parable* Deformances and accompaniing essay **due**
+June 14 [Friday] -- Final *Parable* Deformances and accompanying essay **due**
 
 
