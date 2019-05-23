@@ -10,7 +10,7 @@ I used it to convert this bit of EARTHSEED:
 
 INTO THIS PIECE OF [MUSIC](https://soundcloud.com/jasonloan/earthseed-music-1).
 
-You can see the score [here]().
+You can see the score [here](deformance-excercises/Earthseed_music_1.pdf).
 
 Long story short...this sort of deformance is a real possibility! Again, super jazzed and this sort of has my head spinning. Just a thought -- but how awesome would it be to use this tool to create a text-based score for the novel and have the Pierce College Orchestra perform it? Pretty awesome...
 
