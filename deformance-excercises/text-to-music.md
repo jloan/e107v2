@@ -2,7 +2,7 @@
 
 Brendan's desire to convert/deform Parable into a score got me jazzed (pardon the pun). So I did some digging and it turns out there's "app" for that so to speak.
 
-Turns out the P22 project developed this thing called the ["Music Text Composition Generator"](https://p22.com/musicfont/) and it put into action just this sort of novel -->score-->recording sort of deformance.
+The P22 project developed this thing called the ["Music Text Composition Generator"](https://p22.com/musicfont/) and it put into action just this sort of novel -->score-->recording sort of deformance.
 
 Check it out...
 
