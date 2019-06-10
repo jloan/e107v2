@@ -117,13 +117,18 @@ Friday [June 7]: In-progress *Parable* Deformances **due** | Research Logs and S
 #### Week 10
 
 Monday [June 10]: Workshop: Prototyping Deformance (bring any necessary materials for working on your Deformance Prototype)
+
 Tuesday [June 11]: Workshop: Prototyping Deformance (bring any necessary materials for working on your Deformance Prototype)
+
 Wednesday [June 12]: Workshop: Prototyping Deformance (bring any necessary materials for working on your Deformance Prototype)
-Thursday [June 13]: Workshop: Prototyping Deformance (bring any necessary materials for working on your Deformance Prototype)
-Friday [June 14]: Final *Parable* Deformances and accompanying essay **due**
+
+Thursday [June 13]: Workshop: Prototyping Deformance (bring any necessary materials for working on your Deformance Prototype) | Complete Course Evaluations
+
+Friday [June 14]: Final *Parable* Deformances and accompanying essay **due** | Turn in hardcopies of deformances (if necessary) and publish accompanying essay to Research Log.
 
 
 #### Week 11
+. 
+Monday [June 17]: Wrapping up. No Class Meeting. Conferences (If desired/necesary) 
 
-Monday [June 17]: Wrapping up. Final Evals and Self-assessments.
-Tuesday [June 18]: Wrapping up. Final Evals and Self-assessments.
+Tuesday [June 18]: Wrapping up.  No Class Meeting. Conferences (If desired/necesary). Final Evals and Self-assessments **DUE**
